@@ -66,20 +66,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
 * Any text editor
-
-## `Clone Repo & Installation dependencies`
-
-```bash
-ign="center">
-
-<a href="https://wa.me/917029257330"><img src="https://img.shields.io/badge/Contact Deepak-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<a href="https://youtube.com/@dreamguydeepak"><img src="https://img.shields.io/badge/Subscribe Deepak-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@dreamguydeepak" /><br>
-
-</p>
-```
 -------
 
 ## `For Termux/Ssh/Ubuntu`
