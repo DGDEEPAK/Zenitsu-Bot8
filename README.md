@@ -38,7 +38,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGDEEPAK/Zenitsu-Bot7/fork)
+- FORK THE REPOSITORY [Here](https://github.com/DGDEEPAK/Zenitsu-Bot8/fork)
    
 ## `Scan QR Code For Session`
 [![Zenitsu-Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@deepakbots/Zenitsu6paircode#main.sh)
@@ -51,7 +51,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDEEPAK/Zenitsu-Bot7/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDEEPAK/Zenitsu-Bot8/)
 
 # Install Manually 👇
 
@@ -79,6 +79,7 @@ ign="center">
 <a href="https://youtube.com/@dreamguydeepak"><img src="https://img.shields.io/badge/Subscribe Deepak-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@dreamguydeepak" /><br>
 
 </p>
+```
 -------
 
 ## `For Termux/Ssh/Ubuntu`
