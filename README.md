@@ -83,6 +83,7 @@ pkg install yarn
 pkg install imagemagick -y
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot8
 cd Zenitsu-Bot8
+yarn install
 rm -rf session
 node .
 ```
